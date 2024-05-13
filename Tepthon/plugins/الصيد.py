@@ -118,7 +118,7 @@ def gen_user(choice):
 
         d = random.choices(e)
 
-        f = [c[0], d[0], c[0], c[0], d[0]]
+        f = [c[0], d[0], c[0], c[0], d[0], d[0], d[0], c[0], d[0]]
 
         random.shuffle(f)
 
@@ -146,7 +146,7 @@ def gen_user(choice):
 
         d = random.choices(b)
 
-        f = [c[0], d[0], c[0], c[0], c[0], d[0]]
+        f = [c[0], c[0], c[0], c[0], c[0], d[0]]
 
         random.shuffle(f)
 
